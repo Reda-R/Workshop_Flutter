@@ -62,20 +62,13 @@ For this step you will use the "Navigator" class and change page with a button t
 ---
 ---
 ## __STEP 3__ :
- *Now we will learn how to interact with an API, in our case we will use the API of citymapper.*
+ *Now we will learn how to interact with an API, in our case we will use the API of citymapper. Here is the documentation : http://docs.external.citymapper.com/api/*
 
 ### **STEP 3.1 : Create a requestGet class**
 Let's use the code given and the documentation to do so. To see if it's working you will get from this url: "https://jsonplaceholder.typicode.com/posts"
 
-### **STEP 3.2 : Get your current location (longitude and latitude)**
-In this step you will use Geolocator to get your position. Make sure you have the correct permissions to do it.
-
-### **STEP 3.3 : Make a simple request using your position**
-With your position and the position of th Eiffel Tower, you will make a request to get the travel time on any sort of transport.
-
-
-API Documentation :
-http://docs.external.citymapper.com/api/
+### **STEP 3.2 : Make a simple request using your position**
+With your position and the position of the Eiffel Tower, you will make a request to get the travel time on any sort of transport.
 
 ---
 ---

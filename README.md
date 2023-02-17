@@ -69,6 +69,7 @@ Let's use the code given and the documentation to do so. To see if it's working 
 
 ### **STEP 3.2 : Make a simple request using your position**
 With your position and the position of the Eiffel Tower, you will make a request to get the travel time on any sort of transport.
+(You can get the longitude and latitude using this website : https://www.coordonnees-gps.fr/)
 
 ---
 ---
